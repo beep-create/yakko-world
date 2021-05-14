@@ -1,0 +1,13 @@
+
+body {
+    text-align: center;
+    margin-top: 150px;
+    background-image: url("YakkosWorld.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#imgFlagName {
+width: 420px;
+height: 250px;
+}
