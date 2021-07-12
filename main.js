@@ -27,5 +27,5 @@ function knowMore()
                }  
           }  
      }  
-     txtFile.send(null)  
+     txtFile.send(null);
 }  
