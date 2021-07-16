@@ -4,7 +4,7 @@ function loadFlag()
  console.log(document.getElementById("imgFlagName").src); 
 }
 function knowMore()  
-{  
+{  console.log("it works?");
      var txtFile = new XMLHttpRequest();  
 
 
