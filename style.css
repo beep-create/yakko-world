@@ -1,0 +1,43 @@
+
+body {
+    text-align: center;
+    margin-top: 150px;
+    background-image: url("YakkosWorld.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#imgFlagName {
+width: 420px;
+height: 250px;
+}
+#intro {
+    color: white;
+    font-family: 'Gill Sans';
+    
+}
+
+#know_more {
+    font-family: 'Gill Sans';
+    color:cadetblue;
+    margin-top: 100px;
+    margin-left: 600px;
+    margin-right: 600px;
+    font-size: 20px;
+    background-color: white;
+
+}
+
+#pFlagDesc {
+    font-family: 'Luminari';
+    margin-top: 50px;
+    font-size: 20px;
+    color: white;
+}
+
+#inputCountryName {
+    margin-top: 10px;
+}
+a {
+    color:gold;
+}
