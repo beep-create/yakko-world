@@ -19,9 +19,10 @@ function knowMore()
      {  
           if (txtFile.readyState === 4)   
           {  
+           console.log("4");
                // Makes sure the document is ready to parse.  
                if (txtFile.status === 200)   
-               {  
+               {  console.log("200");
                     // Along with the text creating anchor tag 
                     document.getElementById("pFlagDesc").innerHTML = "" + txtFile.responseText + "<a href=" + linkHyper + "  target=\"_blank\"><b>More Info</b></a>"  ;
                }  
