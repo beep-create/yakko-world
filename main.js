@@ -7,7 +7,7 @@ function knowMore()
 {  console.log("it works?");
      var txtFile = new XMLHttpRequest();  
 
-
+/
      txtFile.open("GET", "../txtinfofiles/"+document.getElementById("inputCountryName").value + ".txt", true);  
      
      //Creating the wikipedia link
